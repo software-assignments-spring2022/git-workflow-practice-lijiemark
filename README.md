@@ -1,9 +1,11 @@
-Link:
+# Git Practice #
+_Lijie Xie_
 
-https://www.wired.com/story/what-is-the-metaverse/
+## Link ##
+[What is the Metaverse, Exactly?](https://www.wired.com/story/what-is-the-metaverse/)
 
-What is the Metaverse, Exactly?
 
+## What is interesting about MetaVerse? ##
 
 I've always been interested in the idea of Metaverse, and this article gives a very interesting presentation of which stage the concept of Metaverse is in its development. 
 
@@ -15,5 +17,5 @@ The technology associated with metaverse is virtual reality. Just like Metaverse
 
 Therefore, it's interesting to think about Metaverse as the future but most of its elements still need time to develop, and hopefully, it won't take too long. 
 
-Can you imagine Metaverse as the future? 
+**_Can you imagine Metaverse as the future? _**
 
