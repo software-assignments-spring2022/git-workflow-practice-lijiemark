@@ -17,5 +17,5 @@ The technology associated with metaverse is virtual reality. Just like Metaverse
 
 Therefore, it's interesting to think about Metaverse as the future but most of its elements still need time to develop, and hopefully, it won't take too long. 
 
-**_Can you imagine Metaverse as the future? _**
+***Can you imagine Metaverse as the future?***
 
