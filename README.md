@@ -19,3 +19,8 @@ Therefore, it's interesting to think about Metaverse as the future but most of i
 
 ***Can you imagine Metaverse as the future?***
 
+
+***
+
+## Comment by Zilong Jiang
+The term, Metaverse, to me is very empty now. Most people criticize the idea of Metaverse by pointing out that it is nothing concrete yet but something that tech companies leverage to attract more investments. It is highly expected tha metaverse will be achieved by mass production and usage of VR/AR headsets, such as the ones that Facebook have been developing, but many people are skeptical about whether VR/AR headsets will be a success in the future due to uncomfort of wearing them. Elon Musk once raised his questions on metaverse in a recent interview, claiming that it will not be successful because people tend to prefer in-person activities to virtual experiences in metaverse. My opnion is that we still need to wait and see how the development of technology will be, and I think the key to success largely depends on breakthroughs in hardware development. There may be a truly virtuous world will be available to us in 10 years, or there may not.
